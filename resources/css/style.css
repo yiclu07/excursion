@@ -145,11 +145,28 @@ h1 {
 }
 
 /* Content */
-p {
+.link {
   color: aquamarine;
   font-size: 1rem;
 }
 
 video {
-  margin-top: 20px;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 42px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+}
+
+p {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  margin-top: 30px;
+}
+
+figure {
+  margin: 25px 0;
 }
