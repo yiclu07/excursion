@@ -127,12 +127,29 @@ table {
 html {
   background-color: black;
   color: white;
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
 }
 
 /* Main Header */
 h1 {
   font-size: 50px;
+  font-weight: normal;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   text-align: center;
+  margin: 30px 0;
+}
+
+/* Content */
+p {
+  color: aquamarine;
+  font-size: 1rem;
+}
+
+video {
+  margin-top: 20px;
 }
