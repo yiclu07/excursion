@@ -170,3 +170,8 @@ p {
 figure {
   margin: 25px 0;
 }
+
+footer {
+  text-align: right;
+  margin-bottom: 30px;
+}
